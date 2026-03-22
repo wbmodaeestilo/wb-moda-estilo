@@ -1,3 +1,51 @@
-:::
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>WB Moda & Estilo</title>
 
-<!DOCTYPE html> <html lang="pt-br"> <head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>WB Moda & Estilo</title> </head> <body> <h1>WB Moda & Estilo</h1> <p>Seu site está no ar 🔥</p> <a href="https://wa.me/5521988247953">Falar no WhatsApp</a> </body> </html> :::
+<style>
+body {
+  font-family: Arial;
+  background: #f0f6ff;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  margin: 20px auto;
+  padding: 15px;
+  max-width: 300px;
+  border-radius: 15px;
+}
+
+img {
+  width: 100%;
+}
+
+.btn {
+  display: block;
+  background: #0b3d91;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
+  text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+
+<h1>WB Moda & Estilo</h1>
+
+<div class="card">
+<img src="https://raw.githubusercontent.com/wbmodaeestilo/wb-moda-estilo/main/WhatsApp%20Image%202026-03-21%20at%2010.50.04%20(1).jpeg">
+<h3>🔥 Body Desejo Azul</h3>
+<p>Renda premium • P ao GG</p>
+<a class="btn" href="https://wa.me/5521988247953?text=Oi! Quero saber o preço do Body Desejo Azul">
+💬 Quero saber o preço
+</a>
+</div>
+
+</body>
+</html>
