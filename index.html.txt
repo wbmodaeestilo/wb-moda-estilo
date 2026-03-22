@@ -1,0 +1,3 @@
+:::
+
+<!DOCTYPE html> <html lang="pt-br"> <head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>WB Moda & Estilo</title> </head> <body> <h1>WB Moda & Estilo</h1> <p>Seu site está no ar 🔥</p> <a href="https://wa.me/5521988247953">Falar no WhatsApp</a> </body> </html> :::
